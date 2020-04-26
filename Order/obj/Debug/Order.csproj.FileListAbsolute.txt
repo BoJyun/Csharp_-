@@ -1,0 +1,9 @@
+D:\coding_practice\Order\Order\bin\Debug\Order.exe
+D:\coding_practice\Order\Order\bin\Debug\Order.pdb
+D:\coding_practice\Order\Order\obj\Debug\Order.Form1.resources
+D:\coding_practice\Order\Order\obj\Debug\Order.csproj.GenerateResource.Cache
+D:\coding_practice\Order\Order\obj\Debug\Order.csproj.CoreCompileInputs.cache
+D:\coding_practice\Order\Order\obj\Debug\Order.exe
+D:\coding_practice\Order\Order\obj\Debug\Order.pdb
+D:\coding_practice\Order\Order\obj\Debug\Order.csprojAssemblyReference.cache
+D:\coding_practice\Order\Order\bin\Debug\Order.exe.config
