@@ -4,5 +4,3 @@
 # UI
 ![Order](./Order.gif)
 
-![image](./SQL.png)
-
