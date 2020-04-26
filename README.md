@@ -3,5 +3,5 @@
 
 # UI
 ![Order](./Order.gif)
-![Order](./SQL.png)
+![SQL](./SQL.png)
 
