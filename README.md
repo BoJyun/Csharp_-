@@ -3,5 +3,5 @@
 
 ![](https://github.com/BoJyun/Csharp_Order/blob/master/order.gif)
 
-![image](./SQL.png)
+![image](https://github.com/BoJyun/Csharp_Order/blob/master/SQL.PNG)
 
