@@ -3,5 +3,5 @@
 
 ![Order](./Order.gif)
 
-![Image](./SQL.png)
+![image](./SQL.png)
 
