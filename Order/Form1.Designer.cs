@@ -202,9 +202,9 @@
             // textBox3Total
             // 
             this.textBox3Total.Font = new System.Drawing.Font("微軟正黑體", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.textBox3Total.Location = new System.Drawing.Point(251, 472);
+            this.textBox3Total.Location = new System.Drawing.Point(202, 472);
             this.textBox3Total.Name = "textBox3Total";
-            this.textBox3Total.Size = new System.Drawing.Size(100, 43);
+            this.textBox3Total.Size = new System.Drawing.Size(149, 43);
             this.textBox3Total.TabIndex = 7;
             // 
             // button3Total
@@ -214,7 +214,7 @@
             this.button3Total.Name = "button3Total";
             this.button3Total.Size = new System.Drawing.Size(94, 43);
             this.button3Total.TabIndex = 8;
-            this.button3Total.Text = "結帳";
+            this.button3Total.Text = "計算";
             this.button3Total.UseVisualStyleBackColor = true;
             this.button3Total.Click += new System.EventHandler(this.button3Total_Click);
             // 
@@ -222,7 +222,7 @@
             // 
             this.label5.AutoSize = true;
             this.label5.Font = new System.Drawing.Font("微軟正黑體", 16.2F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.label5.Location = new System.Drawing.Point(161, 475);
+            this.label5.Location = new System.Drawing.Point(112, 475);
             this.label5.Name = "label5";
             this.label5.Size = new System.Drawing.Size(84, 35);
             this.label5.TabIndex = 9;
@@ -249,7 +249,7 @@
             this.Controls.Add(this.buttonName);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedSingle;
             this.Name = "Form1";
-            this.Text = "飲料點餐系統";
+            this.Text = "成本計算系統";
             this.Load += new System.EventHandler(this.Form1_Load);
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDownNumber)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.dataGridViewOrder)).EndInit();

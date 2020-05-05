@@ -22,10 +22,17 @@ namespace Order
         {
             // 填入銷售項目到菜單中
             DataGridViewRowCollection rows = dataGridViewMenu.Rows;
-            rows.Add(new Object[] { "紅茶", 25 });
-            rows.Add(new Object[] { "綠茶", 25 });
-            rows.Add(new Object[] { "奶茶", 30 });
-            rows.Add(new Object[] { "珍珠奶茶", 35 });
+            rows.Add(new Object[] { "滾珠軸承", 25 });
+            rows.Add(new Object[] { "聯軸器",850  });
+            rows.Add(new Object[] { "線性導桿", 150 });
+            rows.Add(new Object[] { "線性襯套", 180 });
+            rows.Add(new Object[] { "間隔環", 200 });
+            rows.Add(new Object[] { "軸承座", 150 });
+            rows.Add(new Object[] { "軸節機構", 750 });
+            rows.Add(new Object[] { "旋轉軸", 800 });
+            rows.Add(new Object[] { "固定環", 300 });
+            rows.Add(new Object[] { "M4螺絲", 500 });
+            rows.Add(new Object[] { "M4螺帽", 500 });
 
             buttonAdd.Enabled = false;
 
